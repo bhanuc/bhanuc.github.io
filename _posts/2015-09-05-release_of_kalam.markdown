@@ -2,6 +2,7 @@
 layout: post
 title: Release of Kalam Beta on Teacher’s Day
 date: '2015-09-05 15:02:03'
+'logo': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Kalam-Sapta.jpg/800px-Kalam-Sapta.jpg'
 ---
 
 It has been at-least 8 years when I had first read “Wings of Fire” an autobiography of our Late President Dr Avul Pakir Jainulabdeen Abdul Kalam. Apart from his full name, I did come to know a lot about his early life hardships which seems to have motivated me for a major part of my late teens and early adulthood.

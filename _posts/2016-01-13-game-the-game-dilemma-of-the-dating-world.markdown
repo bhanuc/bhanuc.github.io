@@ -2,6 +2,7 @@
 layout: post
 title: 'Gaming the Game : Dilemma of the Dating World'
 date: '2016-01-13 13:38:49'
+'logo': '/content/images/2015/09/gamethegame2-1.jpg'
 ---
 
 The Contemporary world is full of articles, videos, books to help you find a stable match. Stable Match? Who uses the term anyways? Apparently it is used to describe a mutual relationship in which both the partners have the desire to be with each other.

@@ -18,8 +18,8 @@ url: 'http://github.com/bhanuc/'
 image: 'content/images/2015/09/IMG_20150530_135119-ANIMATION-1.gif'
 
 short_url: 'http://github.com/bhanuc/'
-google_analytics: UA-69281367-1
-disqus: username
+google_analytics: UA-67247307-1
+disqus: bhanuc
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
@@ -55,7 +55,7 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: bhanuc
-repo: jasper
+repo: bhanuc.github.io
 branch: master
 relative_source: /
 destination: ../jasper-pages/
