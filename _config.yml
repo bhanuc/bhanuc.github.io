@@ -6,13 +6,13 @@ language: 'en-uk'
 
 # Website info
 name: 'Saga of a Happy Geek'
-description: "Thoughts provoked, stories narrated and ideas Spoken."
+description: "You have to dream before your dreams can come true."
 
 # Author's info
 author: 'Bhanu Pratap Chaudhary'
 # edit 'categories' in the front matter of every post to match this username
 nickname: bhanuc
-bio: 'Entrepreneurship makes me high, I do not need any weed.'
+bio: 'Entrepreneurship makes me high, I need no weed.'
 location: 'IITK, India'
 url: 'http://github.com/bhanuc/'
 image: 'content/images/2015/09/IMG_20150530_135119-ANIMATION-1.gif'
